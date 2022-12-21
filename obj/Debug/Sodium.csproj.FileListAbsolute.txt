@@ -1,0 +1,8 @@
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\bin\Debug\Sodium.exe.config
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\bin\Debug\Sodium.exe
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\bin\Debug\Sodium.pdb
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\obj\Debug\Sodium.csproj.AssemblyReference.cache
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\obj\Debug\Sodium.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\obj\Debug\Sodium.csproj.CoreCompileInputs.cache
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\obj\Debug\Sodium.exe
+C:\Users\nicka\OneDrive\Documents\C# Projects\Console Apps\Sodium\Sodium\obj\Debug\Sodium.pdb
