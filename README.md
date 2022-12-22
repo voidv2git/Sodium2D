@@ -79,12 +79,14 @@ Shape shape = new Shape(new Vector(500, 500), new Vector(50, 50), Color.Black, "
 Return the `Shape` `Vector` Position:
 ```c#
 Console.WriteLine(shape.Position);
+shape.Position = new Vector(250,250);
 ```
 
 #### Scale
 Return the `Shape` `Vector` Scale:
 ```c#
 Console.WriteLine(shape.Scale);
+shape.Scale = new Vector(250,250);
 ```
 
 ### User Input
