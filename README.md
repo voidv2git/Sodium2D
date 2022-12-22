@@ -81,6 +81,12 @@ Return the `Shape` `Vector` Position:
 Console.WriteLine(shape.Position);
 ```
 
+#### Scale
+Return the `Shape` `Vector` Scale:
+```c#
+Console.WriteLine(shape.Scale);
+```
+
 ### User Input
 #### Get Key
 Returns ```true``` or ```false``` based on if a specific key is pressed:
