@@ -10,7 +10,7 @@ namespace Sodium
     {
         static void Main(string[] args)
         {
-            Flapper game = new Flapper();
+            Game game = new Game();
         }
     }
 }
