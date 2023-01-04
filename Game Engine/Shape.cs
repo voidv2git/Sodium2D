@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Sodium
 {
@@ -27,7 +23,7 @@ namespace Sodium
             GameEngine.RegisterShape(this);
         }
 
-        public bool IsCollided(Shape shape, string tag)
+        public static bool IsCollided(Shape shape, string tag)
         {
             List<Shape> p = GameEngine.GetShapes(tag);
             foreach (Shape s in p)

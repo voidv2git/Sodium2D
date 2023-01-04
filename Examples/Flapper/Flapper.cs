@@ -91,8 +91,8 @@ namespace Sodium
                     canJump = true;
                 }
 
-                if (p.IsCollided(p, "Wall")) p.Position = oldPos;
-                if (p.IsCollided(p, "Object")) System.Windows.Forms.Application.Exit();
+                if (Shape.IsCollided(p, "Wall")) p.Position = oldPos;
+                if (Shape.IsCollided(p, "Object")) System.Windows.Forms.Application.Exit();
 
                 foreach (Shape obj in objects)
                 {

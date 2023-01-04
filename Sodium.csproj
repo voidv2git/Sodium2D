@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Examples\Flapper\Flapper.cs" />
+    <Compile Include="Game Engine\Animate.cs" />
     <Compile Include="Game Engine\GameEngine.cs">
       <SubType>Form</SubType>
     </Compile>

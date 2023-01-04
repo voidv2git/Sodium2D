@@ -66,7 +66,7 @@ namespace Sodium
             if (Input.GetKey(Key.S)) moveDir.Y = 1;
             if (Input.GetKey(Key.A)) moveDir.X = -1;
             if (Input.GetKey(Key.D)) moveDir.X = 1;
-            if (p.IsCollided(p, "Wall")) p.Position = oldPos;
+            if (Shape.IsCollided(p, "Wall")) p.Position = oldPos;
 
             oldPos = new Vector(p.Position.X, p.Position.Y);
 

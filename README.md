@@ -89,8 +89,14 @@ Console.WriteLine(shape.Scale);
 shape.Scale = new Vector(250,250);
 ```
 
+#### Collision
+Returns ```true``` or ```false``` based on if a `Shape` is colliding with a `Shape` with `Tag`:
+```c#
+if (Shape.IsCollided(p, "Object")) System.Windows.Forms.Application.Exit();
+```
+
 ### User Input
-#### Get Key
+#### Get Key Down
 Returns ```true``` or ```false``` based on if a specific key is pressed:
 ```c#
 Input.GetKey(Key.Space);
